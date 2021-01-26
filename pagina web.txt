@@ -1,0 +1,71 @@
+<html>
+<head>
+<title bgcolor="#f8f849" text="#000000"> Inicio de PCMR </title> 
+
+</head>
+
+<body bgcolor="black" text="white"> 
+
+<p><h1><font color="#fef63e" face="arial">¡Hey hola! Bienvenido a PCMR </p></h1></font color="#fef63e" face="arial">
+
+<p><h2>¡¡Software y Hadware para Gamers!! </p></h2>
+
+<p>Estamos enfocados en traer la mejor informacion hasta el momento
+y brindar los mejores componentas a un precio razonable para el 
+mundo gamer y poder hacer crecer mas esta comunidad. </p>
+<p>¿CONSOLA O PCMR?
+Desde que existen las consolas, ha habido un constante debate entre sus usuarios y los usuarios de PC. 
+Cada uno de ellos sostiene que su sistema de entretenimiento es el mejor para ejecutar videojuegos. 
+Sin embargo, el paso del tiempo y la introducción de nuevas tecnologías en el ámbito de los ordenadores 
+personales ha hecho que cada vez esté más claro que, la opción superior para poder disfrutar de un videojuego, 
+es el PC. Y es que, a pesar que las consolas nos vayan a permitir tener un equipo para jugar durante bastantes 
+años por un precio módico, la tecnología que se emplea en los PC siempre suele estar por delante.
+Precisamente, este argumento que acabamos de citar, es uno de los más repetidos en este debate: por unos 400 dolares, 
+un usuario puede tener un equipo para jugar durante bastantes años. Y razón no les falta a los que defienden este tipo 
+de ideario. Sin embargo, no es oro todo lo que reluce en este mercado. Y algo que justifica lo que acabamos de comentar 
+es el hecho que, en el mercado actualmente, haya consolas con rendimientos muy dispares entre ellas, dentro de una misma 
+generación. Con unas podremos jugar de manera más o menos aceptable a los últimos juegos que salgan para la plataforma, 
+mientras que, con las otras, nuestras opciones para jugar serán más reducidas. O, dicho de otra manera, un usuario que 
+se hubiera comprado el primer modelo inicial de consola, ahora se vería obligado a comprarse el segundo modelo. 
+Pero un usuario de PC, lo único que habría tenido que hacer es cambiar la tarjeta gráfica.</p>
+
+<center><table border="1">
+<tr>
+<td>GAMA DE PC y COMPONENTES	</td>
+<td>PRECIO</td>
+</tr>
+<tr>
+<td>BAJA: Ryzen 5 3400
+300m
+8 gb
+Vega 8
+1 T
+0
+Stock
+Bronce 500 w
+Nfortec
+</td>
+<td>$20,000.00</td>
+</tr>
+<tr>
+<td>ULTRA: Ryzen 9 5950 x
+b450m
+64 gb
+RTX 3090
+4 T
+2 T
+Liquida
+Plus silver 1000W
+H510 Élite
+</td>
+<td>$100,000.00</td>
+</tr>
+</table></center>
+
+<center><img src="00.jpg"></center>
+<p>Puedes ir a la sección de noticias para estar empapado de información al igual que estar al día sobre lo mas reciente del hardware y de los ultimos lanzamientos de videojuegos. </p>
+<p>Derechos reservados; PCMR, S.A. de C.V.</p>
+</body>
+
+
+</html>
