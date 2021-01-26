@@ -31,10 +31,6 @@ Pero un usuario de PC, lo único que habría tenido que hacer es cambiar la tarj
 
 <center><table border="1">
 <tr>
-<td>GAMA DE PC y COMPONENTES	</td>
-<td>PRECIO</td>
-</tr>
-<tr>
 <td>BAJA: Ryzen 5 3400
 300m
 8 gb
